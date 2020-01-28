@@ -1,0 +1,358 @@
+,Clave de entidad federativa,Nombre de la entidad,Clave de municipio,Alcaldias,Clave de localidad,Nombre de la localidad,Latitud,Longitud,Poblacion total,Poblacion 15 a 17,Poblacion 18 a 24,Poblacion 15 a 17 que asiste a la escuela,Poblacion 18 a 24 que asiste a la escuela,Grado promedio de escolaridad,Total de viviendas,Total de viviendas habitadas,Precio por metro cuadrado
+0,9,Distrito Federal,2,Azcapotzalco,1,Azcapotzalco,192858.0,991100.0,414711.0,18922.0,47181.0,15904.0,22237.0,10.8,132135.0,117264.0,17255
+1,9,Distrito Federal,4,Cuajimalpa de Morelos,1,Cuajimalpa de Morelos,192228.0,991705.0,160491.0,8304.0,20523.0,6296.0,7534.0,10.42,47346.0,41708.0,13725
+2,9,Distrito Federal,4,Cuajimalpa de Morelos,10,Cruz Blanca,191906.0,991924.0,581.0,49.0,87.0,37.0,20.0,7.69,165.0,137.0,13725
+3,9,Distrito Federal,4,Cuajimalpa de Morelos,20,San Lorenzo Acopilco,191944.0,991932.0,23037.0,1316.0,3078.0,955.0,966.0,9.17,6024.0,5510.0,13725
+4,9,Distrito Federal,4,Cuajimalpa de Morelos,50,La Venta,192005.0,991838.0,531.0,35.0,73.0,22.0,20.0,8.78,128.0,123.0,13725
+5,9,Distrito Federal,4,Cuajimalpa de Morelos,54,Puerto las Cruces (Monte las Cruces),191745.0,992053.0,444.0,25.0,65.0,17.0,23.0,8.63,157.0,108.0,13725
+6,9,Distrito Federal,4,Cuajimalpa de Morelos,55,Teopazulco,192047.0,991927.0,12.0,1.0,0.0,1.0,0.0,8.13,4.0,4.0,13725
+7,9,Distrito Federal,4,Cuajimalpa de Morelos,57,Prolongación Constitución,192107.0,991936.0,18.0,2.0,2.0,2.0,0.0,7.0,4.0,3.0,13725
+8,9,Distrito Federal,4,Cuajimalpa de Morelos,58,Paraje Río Borracho,192105.0,991942.0,51.0,3.0,7.0,3.0,2.0,7.82,14.0,11.0,13725
+9,9,Distrito Federal,4,Cuajimalpa de Morelos,60,La Bolsa (El Encinal),192017.0,991807.0,17.0,1.0,2.0,1.0,1.0,11.5,8.0,5.0,13725
+10,9,Distrito Federal,4,Cuajimalpa de Morelos,62,Rancho los Campesinos,191814.0,992039.0,22.0,0.0,5.0,0.0,2.0,8.89,13.0,7.0,13725
+11,9,Distrito Federal,4,Cuajimalpa de Morelos,63,Santa Rosa,191923.0,991747.0,518.0,42.0,83.0,25.0,22.0,7.36,122.0,115.0,13725
+12,9,Distrito Federal,4,Cuajimalpa de Morelos,64,Paraje Cerro de los Padres,192147.0,991900.0,11.0,,,,,,1.0,1.0,13725
+13,9,Distrito Federal,4,Cuajimalpa de Morelos,65,El Boji (San Jacinto),192149.0,991907.0,51.0,3.0,4.0,1.0,0.0,7.68,14.0,14.0,13725
+14,9,Distrito Federal,4,Cuajimalpa de Morelos,66,Rancho Santa Laura,192035.0,991914.0,61.0,7.0,8.0,6.0,4.0,12.0,17.0,16.0,13725
+15,9,Distrito Federal,4,Cuajimalpa de Morelos,67,La Papa [Escuela Niños Héroes],192042.0,991846.0,3.0,,,,,,1.0,1.0,13725
+16,9,Distrito Federal,4,Cuajimalpa de Morelos,69,La Troje,191937.0,991906.0,5.0,,,,,,3.0,1.0,13725
+17,9,Distrito Federal,4,Cuajimalpa de Morelos,70,Punta Galicia,192227.0,991812.0,387.0,28.0,43.0,25.0,9.0,8.23,105.0,97.0,13725
+18,9,Distrito Federal,4,Cuajimalpa de Morelos,71,Ninguno,191810.0,992021.0,11.0,,,,,,1.0,1.0,13725
+19,9,Distrito Federal,4,Cuajimalpa de Morelos,73,Santiago Yacuitlalpan,192231.0,991818.0,75.0,2.0,16.0,2.0,2.0,6.95,21.0,21.0,13725
+20,9,Distrito Federal,4,Cuajimalpa de Morelos,74,Punta Ahuatenco,192205.0,991820.0,65.0,5.0,8.0,3.0,1.0,6.2,21.0,14.0,13725
+21,9,Distrito Federal,6,Iztacalco,1,Iztacalco,192343.0,990552.0,384326.0,18408.0,43855.0,14877.0,19161.0,10.5,114867.0,104406.0,16949
+22,9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,192130.0,990535.0,1815786.0,95933.0,229530.0,71349.0,80120.0,9.61,507483.0,460747.0,9960
+23,9,Distrito Federal,8,La Magdalena Contreras,1,La Magdalena Contreras,192000.0,991250.0,238431.0,12194.0,29068.0,9118.0,11165.0,9.94,67331.0,63114.0,12678
+24,9,Distrito Federal,8,La Magdalena Contreras,71,Paraje las Llantas,191512.0,991444.0,7.0,,,,,,2.0,2.0,12678
+25,9,Distrito Federal,8,La Magdalena Contreras,75,Segundo Dinamo,191659.0,991626.0,21.0,0.0,0.0,0.0,0.0,7.13,6.0,6.0,12678
+26,9,Distrito Federal,8,La Magdalena Contreras,83,El Gavillero,191713.0,991453.0,305.0,22.0,45.0,17.0,9.0,6.7,86.0,70.0,12678
+27,9,Distrito Federal,8,La Magdalena Contreras,88,Totolapa,191651.0,991439.0,121.0,1.0,12.0,0.0,5.0,6.8,34.0,29.0,12678
+28,9,Distrito Federal,8,La Magdalena Contreras,101,Paraje el Rancho,191733.0,991515.0,23.0,2.0,3.0,1.0,0.0,7.29,5.0,5.0,12678
+29,9,Distrito Federal,8,La Magdalena Contreras,103,Paraje Aila,191521.0,991807.0,5.0,,,,,,1.0,1.0,12678
+30,9,Distrito Federal,8,La Magdalena Contreras,104,Rancho Viejo,191530.0,991453.0,27.0,3.0,4.0,0.0,1.0,6.74,10.0,7.0,12678
+31,9,Distrito Federal,8,La Magdalena Contreras,105,La Loma,191722.0,991527.0,14.0,0.0,0.0,0.0,0.0,9.78,3.0,3.0,12678
+32,9,Distrito Federal,8,La Magdalena Contreras,108,Rincón Eslava,191720.0,991505.0,7.0,,,,,,2.0,2.0,12678
+33,9,Distrito Federal,8,La Magdalena Contreras,110,Paraje Chepecano,191728.0,991503.0,21.0,1.0,2.0,0.0,0.0,8.0,6.0,6.0,12678
+34,9,Distrito Federal,8,La Magdalena Contreras,111,Rancho Chichicaspa,191636.0,991444.0,1.0,,,,,,1.0,1.0,12678
+35,9,Distrito Federal,8,La Magdalena Contreras,112,Paraje Chichicaspa,191637.0,991456.0,103.0,5.0,13.0,4.0,2.0,7.95,23.0,21.0,12678
+36,9,Distrito Federal,9,Milpa Alta,1,Villa Milpa Alta,191132.0,990123.0,18274.0,1029.0,2338.0,743.0,870.0,9.25,4919.0,4452.0,980
+37,9,Distrito Federal,9,Milpa Alta,11,San Antonio Tecómitl,191304.0,985917.0,24397.0,1522.0,3220.0,1138.0,1236.0,9.55,6488.0,5899.0,980
+38,9,Distrito Federal,9,Milpa Alta,15,San Bartolomé Xicomulco,191219.0,990400.0,4340.0,264.0,502.0,216.0,176.0,9.55,1272.0,1119.0,980
+39,9,Distrito Federal,9,Milpa Alta,17,San Francisco Tecoxpa,191130.0,990023.0,11456.0,716.0,1478.0,544.0,470.0,9.08,3076.0,2767.0,980
+40,9,Distrito Federal,9,Milpa Alta,24,San Pablo Oztotepec,191109.0,990421.0,15507.0,938.0,2055.0,695.0,660.0,9.33,4270.0,3742.0,980
+41,9,Distrito Federal,9,Milpa Alta,29,San Pedro Atocpan,191202.0,990257.0,8283.0,492.0,1166.0,374.0,378.0,8.94,2263.0,2026.0,980
+42,9,Distrito Federal,9,Milpa Alta,33,San Salvador Cuauhtenco,191127.0,990515.0,13856.0,845.0,1777.0,638.0,523.0,9.06,3757.0,3329.0,980
+43,9,Distrito Federal,9,Milpa Alta,36,Santa Ana Tlacotenco,191026.0,985946.0,10593.0,606.0,1338.0,450.0,514.0,8.99,3009.0,2647.0,980
+44,9,Distrito Federal,9,Milpa Alta,37,Cruztitla,191256.0,990014.0,496.0,30.0,73.0,19.0,20.0,8.5,146.0,124.0,980
+45,9,Distrito Federal,9,Milpa Alta,39,Atlimeya,190959.0,990421.0,30.0,0.0,2.0,0.0,0.0,5.83,11.0,5.0,980
+46,9,Distrito Federal,9,Milpa Alta,41,Atoctienco,191247.0,990242.0,108.0,5.0,18.0,3.0,6.0,8.55,40.0,30.0,980
+47,9,Distrito Federal,9,Milpa Alta,45,Totolan,191100.0,990206.0,6.0,,,,,,2.0,2.0,980
+48,9,Distrito Federal,9,Milpa Alta,46,Xoctonco,191102.0,990515.0,329.0,27.0,47.0,20.0,11.0,8.1,86.0,77.0,980
+49,9,Distrito Federal,9,Milpa Alta,50,Cozcatlán,191050.0,990101.0,2.0,,,,,,2.0,1.0,980
+50,9,Distrito Federal,9,Milpa Alta,52,La Herradura (Séptima Curva),191103.0,990257.0,96.0,5.0,16.0,2.0,4.0,7.54,32.0,27.0,980
+51,9,Distrito Federal,9,Milpa Alta,54,Zangahco,191021.0,990358.0,31.0,2.0,2.0,2.0,0.0,6.28,10.0,7.0,980
+52,9,Distrito Federal,9,Milpa Alta,56,Hueycotzingo,191126.0,990310.0,99.0,6.0,9.0,5.0,2.0,7.59,25.0,25.0,980
+53,9,Distrito Federal,9,Milpa Alta,66,Cuauhtec (El Mirador Santa Ana Tlacotenco),190938.0,985923.0,17.0,1.0,2.0,1.0,2.0,10.8,3.0,3.0,980
+54,9,Distrito Federal,9,Milpa Alta,67,La Mora,191122.0,990211.0,12.0,3.0,1.0,3.0,0.0,8.29,3.0,3.0,980
+55,9,Distrito Federal,9,Milpa Alta,68,Metenco,191213.0,990449.0,226.0,15.0,27.0,14.0,7.0,8.84,66.0,57.0,980
+56,9,Distrito Federal,9,Milpa Alta,72,Tamasquiti,191022.0,990125.0,11.0,0.0,0.0,0.0,0.0,6.13,4.0,3.0,980
+57,9,Distrito Federal,9,Milpa Alta,74,San Agustín el Alto,191038.0,990030.0,14.0,1.0,3.0,0.0,1.0,5.2,5.0,3.0,980
+58,9,Distrito Federal,9,Milpa Alta,77,San Marcos,191007.0,990131.0,130.0,6.0,24.0,2.0,5.0,7.76,33.0,26.0,980
+59,9,Distrito Federal,9,Milpa Alta,79,Atlatlauco,191040.0,990352.0,90.0,8.0,9.0,4.0,1.0,7.18,22.0,18.0,980
+60,9,Distrito Federal,9,Milpa Alta,81,Cuyucalco,191058.0,990336.0,87.0,2.0,11.0,2.0,3.0,9.72,34.0,23.0,980
+61,9,Distrito Federal,9,Milpa Alta,82,Iztauhagca,191104.0,990332.0,65.0,2.0,8.0,2.0,4.0,9.1,20.0,17.0,980
+62,9,Distrito Federal,9,Milpa Alta,83,Tzotzomaco,191152.0,990220.0,13.0,0.0,0.0,0.0,0.0,10.25,3.0,3.0,980
+63,9,Distrito Federal,9,Milpa Alta,84,Tlatepexco,191141.0,990438.0,117.0,9.0,21.0,7.0,6.0,7.65,45.0,34.0,980
+64,9,Distrito Federal,9,Milpa Alta,88,San Paocotitla,191109.0,990301.0,88.0,6.0,11.0,4.0,0.0,7.4,22.0,21.0,980
+65,9,Distrito Federal,9,Milpa Alta,90,Tlacopac,191020.0,990226.0,51.0,4.0,7.0,2.0,2.0,8.22,14.0,11.0,980
+66,9,Distrito Federal,9,Milpa Alta,92,Tecolotzitzatzian (Piltongo),190946.0,990237.0,7.0,,,,,,2.0,1.0,980
+67,9,Distrito Federal,9,Milpa Alta,95,Mecatzintla,191107.0,990029.0,15.0,1.0,1.0,1.0,1.0,9.92,5.0,4.0,980
+68,9,Distrito Federal,9,Milpa Alta,96,Tequianquiztunco,190955.0,990418.0,9.0,,,,,,3.0,2.0,980
+69,9,Distrito Federal,9,Milpa Alta,98,Tetexipezco,191207.0,990211.0,39.0,1.0,1.0,0.0,1.0,7.2,9.0,9.0,980
+70,9,Distrito Federal,9,Milpa Alta,99,Tetlicuili (El Encinal),190928.0,985906.0,67.0,3.0,9.0,2.0,2.0,8.36,26.0,18.0,980
+71,9,Distrito Federal,9,Milpa Alta,100,Teuhtli,191310.0,990150.0,11.0,,,,,,4.0,2.0,980
+72,9,Distrito Federal,9,Milpa Alta,101,Texcalahuitiel,191202.0,990335.0,28.0,2.0,3.0,2.0,0.0,8.59,6.0,6.0,980
+73,9,Distrito Federal,9,Milpa Alta,103,Tezompa,191117.0,990309.0,99.0,10.0,18.0,4.0,3.0,7.59,38.0,23.0,980
+74,9,Distrito Federal,9,Milpa Alta,104,Colonia Teziuhtepec,191019.0,990415.0,89.0,4.0,19.0,3.0,1.0,8.09,24.0,22.0,980
+75,9,Distrito Federal,9,Milpa Alta,105,Tetzumpa,191002.0,990414.0,14.0,,,,,,4.0,2.0,980
+76,9,Distrito Federal,9,Milpa Alta,109,Tlaxala,191208.0,990216.0,46.0,3.0,6.0,2.0,4.0,9.42,11.0,11.0,980
+77,9,Distrito Federal,9,Milpa Alta,110,Cuescomatepec,191016.0,990245.0,3.0,,,,,,2.0,1.0,980
+78,9,Distrito Federal,9,Milpa Alta,112,Tetepanco,191221.0,990317.0,94.0,8.0,9.0,6.0,2.0,7.73,27.0,22.0,980
+79,9,Distrito Federal,9,Milpa Alta,113,Cerrada Francisco I. Madero,191248.0,990338.0,51.0,3.0,9.0,3.0,4.0,9.06,19.0,12.0,980
+80,9,Distrito Federal,9,Milpa Alta,115,San José,191230.0,990336.0,137.0,10.0,15.0,9.0,5.0,7.08,48.0,36.0,980
+81,9,Distrito Federal,9,Milpa Alta,116,Hueytepetl,191121.0,985922.0,202.0,6.0,23.0,4.0,0.0,7.48,62.0,52.0,980
+82,9,Distrito Federal,9,Milpa Alta,117,Coximalipa,191025.0,990409.0,91.0,7.0,11.0,6.0,3.0,9.0,31.0,23.0,980
+83,9,Distrito Federal,9,Milpa Alta,120,Texacatipac,191032.0,990435.0,153.0,8.0,22.0,7.0,6.0,8.48,47.0,41.0,980
+84,9,Distrito Federal,9,Milpa Alta,123,La Mora III,191120.0,990205.0,31.0,2.0,7.0,0.0,2.0,8.67,8.0,8.0,980
+85,9,Distrito Federal,9,Milpa Alta,124,La Mora IV,191127.0,990155.0,13.0,0.0,0.0,0.0,0.0,4.0,4.0,3.0,980
+86,9,Distrito Federal,9,Milpa Alta,125,La Mora V,191129.0,990202.0,23.0,0.0,1.0,0.0,1.0,6.88,6.0,6.0,980
+87,9,Distrito Federal,9,Milpa Alta,126,Coyocalli,191150.0,990212.0,16.0,1.0,1.0,1.0,0.0,8.36,5.0,4.0,980
+88,9,Distrito Federal,9,Milpa Alta,129,Tlapalan,191051.0,990038.0,37.0,1.0,3.0,0.0,1.0,9.64,11.0,11.0,980
+89,9,Distrito Federal,9,Milpa Alta,130,Retamatitla,191034.0,990115.0,2.0,,,,,,1.0,1.0,980
+90,9,Distrito Federal,9,Milpa Alta,131,Texalco,191134.0,990209.0,84.0,4.0,10.0,2.0,3.0,7.82,18.0,17.0,980
+91,9,Distrito Federal,9,Milpa Alta,134,Quepilco,191123.0,990603.0,56.0,6.0,6.0,3.0,1.0,8.43,20.0,12.0,980
+92,9,Distrito Federal,9,Milpa Alta,135,Texococlixpa (Rancho Santa Elena),191058.0,990600.0,6.0,,,,,,3.0,2.0,980
+93,9,Distrito Federal,9,Milpa Alta,138,Barranca Seca (Pozo Ocho),191223.0,985951.0,200.0,22.0,20.0,9.0,4.0,6.87,53.0,46.0,980
+94,9,Distrito Federal,9,Milpa Alta,139,Teatlaco,191121.0,985930.0,31.0,2.0,3.0,1.0,0.0,5.67,9.0,9.0,980
+95,9,Distrito Federal,9,Milpa Alta,140,Tlaloxtoc (Ejidos de Tecoxpa),191149.0,985852.0,38.0,3.0,5.0,1.0,2.0,7.56,11.0,10.0,980
+96,9,Distrito Federal,9,Milpa Alta,142,Atuzanco,191230.0,990318.0,43.0,1.0,3.0,1.0,1.0,7.46,12.0,12.0,980
+97,9,Distrito Federal,9,Milpa Alta,147,El Potrero,191235.0,990532.0,20.0,0.0,1.0,0.0,1.0,12.07,6.0,5.0,980
+98,9,Distrito Federal,9,Milpa Alta,148,Jalisco Uno,191159.0,990209.0,55.0,2.0,8.0,1.0,5.0,8.72,18.0,15.0,980
+99,9,Distrito Federal,9,Milpa Alta,151,Miquixpa,191111.0,990603.0,32.0,3.0,3.0,3.0,1.0,7.57,11.0,6.0,980
+100,9,Distrito Federal,9,Milpa Alta,152,San Lorenzo Tlacoyucan,191030.0,990152.0,3676.0,218.0,506.0,138.0,126.0,8.44,1056.0,938.0,980
+101,9,Distrito Federal,9,Milpa Alta,154,Rinconada del Tioca,191233.0,990522.0,110.0,7.0,9.0,4.0,3.0,8.89,28.0,24.0,980
+102,9,Distrito Federal,9,Milpa Alta,155,Tlacpa,191217.0,990324.0,6.0,,,,,,4.0,2.0,980
+103,9,Distrito Federal,9,Milpa Alta,156,Temoclaluca,191138.0,990446.0,66.0,4.0,8.0,2.0,3.0,6.91,18.0,16.0,980
+104,9,Distrito Federal,9,Milpa Alta,158,Malacaxco,191152.0,990356.0,55.0,8.0,5.0,7.0,3.0,8.74,16.0,12.0,980
+105,9,Distrito Federal,9,Milpa Alta,159,Cuatlixco,191139.0,990347.0,26.0,2.0,4.0,1.0,2.0,7.22,5.0,5.0,980
+106,9,Distrito Federal,9,Milpa Alta,160,Tlaloxtutienco (Montesinos),191145.0,990345.0,30.0,2.0,3.0,1.0,2.0,8.22,7.0,6.0,980
+107,9,Distrito Federal,9,Milpa Alta,161,Coametzu,191113.0,990328.0,136.0,14.0,22.0,9.0,3.0,7.13,39.0,30.0,980
+108,9,Distrito Federal,9,Milpa Alta,163,Cuauhtunco,191301.0,990241.0,236.0,19.0,31.0,15.0,9.0,8.31,82.0,60.0,980
+109,9,Distrito Federal,9,Milpa Alta,167,Tepetenco,191215.0,990214.0,180.0,8.0,21.0,5.0,7.0,8.39,48.0,44.0,980
+110,9,Distrito Federal,9,Milpa Alta,168,San Isidro Cuatepec,191308.0,990028.0,670.0,53.0,92.0,33.0,17.0,8.06,194.0,171.0,980
+111,9,Distrito Federal,9,Milpa Alta,169,Xaluis (Ixtahuaca),191103.0,990318.0,153.0,6.0,24.0,4.0,7.0,8.85,47.0,38.0,980
+112,9,Distrito Federal,9,Milpa Alta,171,Tlacaxatl (Barrio Xochitepec),191226.0,985940.0,219.0,20.0,22.0,14.0,9.0,8.11,56.0,50.0,980
+113,9,Distrito Federal,9,Milpa Alta,172,Tlachachalipac,191057.0,990312.0,62.0,6.0,7.0,3.0,0.0,7.31,22.0,13.0,980
+114,9,Distrito Federal,9,Milpa Alta,173,Camino Real a Tlaltenami,191043.0,990344.0,69.0,6.0,9.0,4.0,3.0,8.37,21.0,17.0,980
+115,9,Distrito Federal,9,Milpa Alta,174,Mecalco,191048.0,990111.0,157.0,7.0,23.0,4.0,7.0,7.75,44.0,41.0,980
+116,9,Distrito Federal,9,Milpa Alta,176,Zacatonco,191050.0,990057.0,61.0,5.0,13.0,3.0,7.0,9.57,15.0,12.0,980
+117,9,Distrito Federal,9,Milpa Alta,177,Carretera a Santa Ana,191058.0,990052.0,104.0,4.0,8.0,3.0,1.0,6.11,26.0,25.0,980
+118,9,Distrito Federal,9,Milpa Alta,178,Xali,191010.0,990153.0,39.0,5.0,6.0,5.0,4.0,9.16,10.0,10.0,980
+119,9,Distrito Federal,9,Milpa Alta,185,Zacaxontlicpa,191144.0,990617.0,48.0,4.0,6.0,4.0,1.0,9.69,16.0,13.0,980
+120,9,Distrito Federal,9,Milpa Alta,187,Santa Catarina (Piedra Blanca),191241.0,990445.0,143.0,10.0,14.0,10.0,10.0,10.74,53.0,38.0,980
+121,9,Distrito Federal,9,Milpa Alta,188,Paraje Cuauhtetec,191138.0,990452.0,188.0,14.0,34.0,6.0,9.0,8.0,52.0,40.0,980
+122,9,Distrito Federal,9,Milpa Alta,189,Hueytlalpan,191132.0,990449.0,91.0,4.0,10.0,3.0,1.0,8.02,25.0,24.0,980
+123,9,Distrito Federal,9,Milpa Alta,191,Tlatilpampa,191302.0,990328.0,15.0,1.0,4.0,1.0,3.0,7.08,4.0,3.0,980
+124,9,Distrito Federal,9,Milpa Alta,192,Tetzmititla,191226.0,990324.0,27.0,1.0,8.0,1.0,2.0,8.18,9.0,6.0,980
+125,9,Distrito Federal,9,Milpa Alta,195,Tlaxiomulco,191129.0,990219.0,113.0,9.0,22.0,5.0,7.0,6.67,23.0,21.0,980
+126,9,Distrito Federal,9,Milpa Alta,196,Tepachac,191123.0,990206.0,15.0,1.0,0.0,1.0,0.0,8.43,4.0,4.0,980
+127,9,Distrito Federal,9,Milpa Alta,197,Chichauhtonco,191111.0,990206.0,10.0,1.0,0.0,0.0,0.0,4.67,6.0,3.0,980
+128,9,Distrito Federal,9,Milpa Alta,198,Tecoloxtitla,191052.0,990041.0,159.0,14.0,21.0,8.0,7.0,8.82,41.0,41.0,980
+129,9,Distrito Federal,9,Milpa Alta,199,Tapalaco (Amacapultitla),191013.0,990012.0,13.0,1.0,2.0,1.0,0.0,7.63,4.0,4.0,980
+130,9,Distrito Federal,9,Milpa Alta,200,Teacalco,191156.0,990342.0,38.0,4.0,4.0,4.0,2.0,8.18,9.0,9.0,980
+131,9,Distrito Federal,9,Milpa Alta,201,Iztlalco,191255.0,990341.0,9.0,0.0,1.0,0.0,0.0,6.0,6.0,3.0,980
+132,9,Distrito Federal,9,Milpa Alta,202,Conzontlicpa,191249.0,990347.0,144.0,12.0,19.0,11.0,9.0,8.01,32.0,31.0,980
+133,9,Distrito Federal,9,Milpa Alta,203,Huepaltepec,191242.0,990428.0,54.0,4.0,2.0,2.0,0.0,7.59,20.0,17.0,980
+134,9,Distrito Federal,9,Milpa Alta,204,Mecatlán (Rancho el Refugio),191233.0,990502.0,42.0,2.0,4.0,2.0,0.0,8.71,12.0,8.0,980
+135,9,Distrito Federal,9,Milpa Alta,205,Tecupilco (Kilómetro 17.5),191304.0,990258.0,81.0,7.0,12.0,6.0,5.0,10.7,22.0,18.0,980
+136,9,Distrito Federal,9,Milpa Alta,206,Xaxalpa,191304.0,990255.0,93.0,7.0,17.0,7.0,7.0,10.1,29.0,22.0,980
+137,9,Distrito Federal,9,Milpa Alta,207,Xaltepetitla,191302.0,990235.0,29.0,1.0,3.0,1.0,1.0,7.81,12.0,10.0,980
+138,9,Distrito Federal,9,Milpa Alta,208,Tetecolok,191247.0,990308.0,62.0,4.0,4.0,4.0,0.0,7.21,25.0,17.0,980
+139,9,Distrito Federal,9,Milpa Alta,209,Tlaxicoapa (Mulotla),191228.0,990314.0,55.0,3.0,11.0,1.0,1.0,7.95,14.0,11.0,980
+140,9,Distrito Federal,9,Milpa Alta,210,Santa Rosa,191325.0,990012.0,130.0,5.0,17.0,1.0,1.0,7.33,37.0,31.0,980
+141,9,Distrito Federal,9,Milpa Alta,211,Olla de Piedra,191326.0,990011.0,36.0,3.0,4.0,3.0,0.0,8.39,11.0,9.0,980
+142,9,Distrito Federal,9,Milpa Alta,213,El Zapote (Techultepec),191257.0,990014.0,331.0,21.0,46.0,15.0,5.0,8.92,86.0,73.0,980
+143,9,Distrito Federal,9,Milpa Alta,214,Maxulco (Barrio Cruztitla),191234.0,990010.0,310.0,19.0,31.0,15.0,13.0,9.3,86.0,73.0,980
+144,9,Distrito Federal,9,Milpa Alta,215,El Pirul,191227.0,990033.0,29.0,2.0,7.0,1.0,5.0,7.9,7.0,6.0,980
+145,9,Distrito Federal,9,Milpa Alta,216,Prolongación Avenida México Norte,191211.0,990126.0,57.0,5.0,8.0,2.0,2.0,8.7,19.0,12.0,980
+146,9,Distrito Federal,9,Milpa Alta,217,Zacuaztitla,191212.0,985858.0,189.0,15.0,29.0,8.0,6.0,7.47,47.0,41.0,980
+147,9,Distrito Federal,9,Milpa Alta,218,Rancho Paraíso Escondido,191215.0,985914.0,10.0,,,,,,3.0,2.0,980
+148,9,Distrito Federal,9,Milpa Alta,219,Omaxal,191102.0,990538.0,160.0,11.0,24.0,6.0,3.0,7.4,44.0,41.0,980
+149,9,Distrito Federal,9,Milpa Alta,220,Mimiradorco,191055.0,990540.0,17.0,2.0,5.0,0.0,0.0,7.23,8.0,5.0,980
+150,9,Distrito Federal,9,Milpa Alta,222,Ahuatitla,191103.0,990454.0,52.0,3.0,10.0,2.0,2.0,9.8,16.0,13.0,980
+151,9,Distrito Federal,9,Milpa Alta,223,Texacazintla (Xacalixpa),191038.0,990443.0,96.0,9.0,10.0,4.0,3.0,7.51,29.0,25.0,980
+152,9,Distrito Federal,9,Milpa Alta,224,Chichilecas,191034.0,990404.0,142.0,7.0,12.0,4.0,3.0,8.44,41.0,35.0,980
+153,9,Distrito Federal,9,Milpa Alta,225,Camino a la Granja,191149.0,990348.0,11.0,,,,,,3.0,2.0,980
+154,9,Distrito Federal,9,Milpa Alta,226,Calle Capulines,191149.0,990333.0,9.0,0.0,0.0,0.0,0.0,8.88,5.0,4.0,980
+155,9,Distrito Federal,9,Milpa Alta,227,Rancho los Capulines,191138.0,990328.0,50.0,4.0,7.0,1.0,1.0,8.39,11.0,11.0,980
+156,9,Distrito Federal,9,Milpa Alta,228,Temoayan,191145.0,990325.0,34.0,2.0,8.0,1.0,1.0,9.63,11.0,7.0,980
+157,9,Distrito Federal,9,Milpa Alta,229,Prolongación Xolotl,191131.0,990321.0,68.0,6.0,4.0,5.0,3.0,8.02,17.0,14.0,980
+158,9,Distrito Federal,9,Milpa Alta,230,Tequimilpa,191135.0,990315.0,4.0,,,,,,2.0,2.0,980
+159,9,Distrito Federal,9,Milpa Alta,232,Meliaxco,191120.0,990159.0,33.0,1.0,7.0,0.0,2.0,6.68,6.0,6.0,980
+160,9,Distrito Federal,9,Milpa Alta,233,Las Cruces Parte Alta (Tehuepanco),191026.0,990232.0,188.0,10.0,30.0,6.0,3.0,7.58,48.0,47.0,980
+161,9,Distrito Federal,9,Milpa Alta,234,Cuapalipa,191014.0,990202.0,32.0,3.0,2.0,1.0,0.0,6.4,7.0,7.0,980
+162,9,Distrito Federal,9,Milpa Alta,235,Camino Tigustitla,191010.0,990216.0,50.0,4.0,2.0,2.0,0.0,7.68,20.0,14.0,980
+163,9,Distrito Federal,9,Milpa Alta,236,Zacaticli,191001.0,990211.0,45.0,4.0,9.0,3.0,0.0,6.67,13.0,13.0,980
+164,9,Distrito Federal,9,Milpa Alta,237,Tenopantitla,191004.0,990150.0,27.0,2.0,3.0,2.0,0.0,7.89,9.0,7.0,980
+165,9,Distrito Federal,9,Milpa Alta,238,Ocoteloloco (Tlaxcantitla),191017.0,990107.0,2.0,,,,,,3.0,1.0,980
+166,9,Distrito Federal,9,Milpa Alta,239,Tecpallo,191148.0,985924.0,117.0,3.0,15.0,2.0,7.0,7.55,36.0,31.0,980
+167,9,Distrito Federal,9,Milpa Alta,241,Nuch Huaca (Techinantitle),191028.0,985916.0,72.0,5.0,10.0,3.0,3.0,8.02,27.0,18.0,980
+168,9,Distrito Federal,9,Milpa Alta,242,Cuacuahotlipa,191004.0,985913.0,174.0,10.0,29.0,5.0,6.0,7.3,55.0,45.0,980
+169,9,Distrito Federal,9,Milpa Alta,243,Tlalcospa (Nacatulatlaco),190958.0,985927.0,30.0,1.0,4.0,1.0,1.0,8.84,8.0,7.0,980
+170,9,Distrito Federal,9,Milpa Alta,244,Teshutla,190953.0,985919.0,14.0,1.0,1.0,1.0,0.0,9.4,5.0,4.0,980
+171,9,Distrito Federal,9,Milpa Alta,245,Citlalcuac (Rancho el Paraíso Perdido),191202.0,990543.0,87.0,2.0,10.0,1.0,4.0,8.49,22.0,20.0,980
+172,9,Distrito Federal,9,Milpa Alta,246,Prolongación Niños Héroes,191157.0,990514.0,264.0,17.0,36.0,11.0,10.0,7.99,77.0,68.0,980
+173,9,Distrito Federal,9,Milpa Alta,248,Paraje Huicalco,191235.0,990337.0,67.0,4.0,8.0,4.0,5.0,9.55,22.0,16.0,980
+174,9,Distrito Federal,9,Milpa Alta,249,Los Aguilar,191219.0,990436.0,4.0,,,,,,1.0,1.0,980
+175,9,Distrito Federal,9,Milpa Alta,250,Tetexaloca,191116.0,990335.0,90.0,6.0,4.0,5.0,3.0,7.21,25.0,21.0,980
+176,9,Distrito Federal,9,Milpa Alta,251,Prolongación Justo Sierra,191202.0,990347.0,24.0,2.0,5.0,2.0,1.0,8.8,5.0,5.0,980
+177,9,Distrito Federal,9,Milpa Alta,252,Acatlaco,191049.0,990343.0,41.0,2.0,5.0,2.0,2.0,8.76,10.0,8.0,980
+178,9,Distrito Federal,9,Milpa Alta,253,Xalmoyo,191109.0,990554.0,65.0,5.0,7.0,3.0,2.0,8.11,23.0,17.0,980
+179,9,Distrito Federal,9,Milpa Alta,254,Paraje Oluca,191128.0,990603.0,445.0,31.0,59.0,20.0,22.0,7.65,141.0,111.0,980
+180,9,Distrito Federal,9,Milpa Alta,255,Ninguno,191200.0,990331.0,8.0,,,,,,1.0,1.0,980
+181,9,Distrito Federal,9,Milpa Alta,256,La Joya,191201.0,990457.0,59.0,5.0,7.0,4.0,4.0,8.09,25.0,14.0,980
+182,9,Distrito Federal,9,Milpa Alta,257,Camino Viejo a Santa Cruz,191240.0,990403.0,64.0,2.0,2.0,2.0,0.0,9.0,23.0,18.0,980
+183,9,Distrito Federal,9,Milpa Alta,258,Paraje la Cruz,191113.0,990227.0,66.0,3.0,5.0,1.0,0.0,7.05,20.0,18.0,980
+184,9,Distrito Federal,9,Milpa Alta,260,Mixquiahuac,191219.0,990443.0,11.0,0.0,1.0,0.0,0.0,15.0,4.0,4.0,980
+185,9,Distrito Federal,9,Milpa Alta,261,Zacamoli,191218.0,990500.0,27.0,0.0,4.0,0.0,1.0,9.72,8.0,8.0,980
+186,9,Distrito Federal,9,Milpa Alta,264,Panuca (Kilómetro 27.5),190949.0,985935.0,23.0,2.0,2.0,1.0,1.0,6.71,8.0,8.0,980
+187,9,Distrito Federal,9,Milpa Alta,265,Tlaltepec,191105.0,990022.0,131.0,5.0,18.0,1.0,1.0,6.52,36.0,34.0,980
+188,9,Distrito Federal,9,Milpa Alta,266,Las Palmas (Chimeo),191312.0,990044.0,125.0,10.0,18.0,6.0,2.0,7.38,31.0,27.0,980
+189,9,Distrito Federal,9,Milpa Alta,268,AA Milpa Alta,191221.0,990050.0,38.0,3.0,7.0,3.0,1.0,7.96,10.0,9.0,980
+190,9,Distrito Federal,9,Milpa Alta,269,El Cerrito,191242.0,985923.0,79.0,4.0,8.0,3.0,5.0,8.57,22.0,19.0,980
+191,9,Distrito Federal,9,Milpa Alta,271,San Miguelito (Tecoxomayehuactitla),190958.0,990020.0,40.0,1.0,7.0,0.0,1.0,7.13,11.0,11.0,980
+192,9,Distrito Federal,9,Milpa Alta,273,Texomulco,191308.0,990240.0,49.0,2.0,7.0,1.0,0.0,6.37,12.0,10.0,980
+193,9,Distrito Federal,9,Milpa Alta,274,Prolongación Benito Juárez,190949.0,985954.0,15.0,2.0,1.0,1.0,0.0,6.75,5.0,4.0,980
+194,9,Distrito Federal,9,Milpa Alta,275,Tlalcocomoya,191014.0,990237.0,45.0,2.0,7.0,1.0,0.0,6.59,10.0,10.0,980
+195,9,Distrito Federal,9,Milpa Alta,276,Zozotlac,191015.0,990240.0,52.0,2.0,2.0,2.0,1.0,7.45,22.0,15.0,980
+196,9,Distrito Federal,9,Milpa Alta,277,Atoctenco (Tlalaxco),191307.0,990250.0,347.0,22.0,43.0,18.0,19.0,9.26,91.0,84.0,980
+197,9,Distrito Federal,9,Milpa Alta,278,Cerrada Buenavista,191135.0,990201.0,29.0,4.0,4.0,2.0,1.0,7.32,7.0,6.0,980
+198,9,Distrito Federal,9,Milpa Alta,280,Ninguno,191236.0,990326.0,14.0,2.0,1.0,2.0,0.0,9.17,9.0,5.0,980
+199,9,Distrito Federal,9,Milpa Alta,281,Rancho Zihuantemohuayan,191250.0,990323.0,6.0,,,,,,8.0,2.0,980
+200,9,Distrito Federal,9,Milpa Alta,282,Carretera a San Bartolo,191233.0,990433.0,5.0,,,,,,1.0,1.0,980
+201,9,Distrito Federal,9,Milpa Alta,283,Tlatzala,191235.0,990313.0,4.0,,,,,,3.0,1.0,980
+202,9,Distrito Federal,9,Milpa Alta,284,Tetzompa,191217.0,990049.0,56.0,3.0,6.0,2.0,3.0,7.42,19.0,14.0,980
+203,9,Distrito Federal,9,Milpa Alta,285,Prolongación Mina,191201.0,990522.0,131.0,7.0,19.0,6.0,2.0,6.9,32.0,28.0,980
+204,9,Distrito Federal,9,Milpa Alta,288,Tlacopanco,191133.0,990412.0,87.0,3.0,9.0,3.0,0.0,8.5,26.0,20.0,980
+205,9,Distrito Federal,9,Milpa Alta,289,Pitucaltitla,191136.0,990420.0,111.0,10.0,15.0,5.0,2.0,7.59,25.0,24.0,980
+206,9,Distrito Federal,9,Milpa Alta,291,Prolongación Veracruz Sur,191039.0,990111.0,8.0,,,,,,3.0,2.0,980
+207,9,Distrito Federal,9,Milpa Alta,292,Joyas Parte Alta,191228.0,985930.0,305.0,16.0,29.0,10.0,12.0,7.64,94.0,73.0,980
+208,9,Distrito Federal,9,Milpa Alta,293,Camino de la Amistad,191230.0,990448.0,29.0,1.0,1.0,1.0,0.0,11.83,7.0,6.0,980
+209,9,Distrito Federal,9,Milpa Alta,294,Ninguno,191015.0,990403.0,9.0,,,,,,3.0,2.0,980
+210,9,Distrito Federal,9,Milpa Alta,295,Prolongación Juan Escutia,191151.0,990457.0,19.0,0.0,3.0,0.0,1.0,8.09,5.0,4.0,980
+211,9,Distrito Federal,9,Milpa Alta,297,San Antonio Cuilotepec,191103.0,990529.0,243.0,16.0,33.0,8.0,7.0,7.19,75.0,59.0,980
+212,9,Distrito Federal,9,Milpa Alta,299,Tenochcalco,190919.0,985916.0,17.0,0.0,1.0,0.0,0.0,4.92,5.0,5.0,980
+213,9,Distrito Federal,9,Milpa Alta,300,San Nicolás Tetelco,191236.0,985814.0,3490.0,234.0,476.0,165.0,151.0,9.04,902.0,842.0,980
+214,9,Distrito Federal,9,Milpa Alta,301,El Tejocote,191208.0,985811.0,62.0,2.0,4.0,1.0,1.0,7.22,25.0,15.0,980
+215,9,Distrito Federal,9,Milpa Alta,302,Ejidos Tecoxpa,191222.0,985834.0,7.0,0.0,0.0,0.0,0.0,4.4,3.0,3.0,980
+216,9,Distrito Federal,9,Milpa Alta,303,Ninguno,191234.0,985849.0,176.0,10.0,19.0,7.0,5.0,7.62,40.0,39.0,980
+217,9,Distrito Federal,9,Milpa Alta,304,Avenida el Cerro,191221.0,985820.0,115.0,4.0,23.0,1.0,2.0,6.76,31.0,28.0,980
+218,9,Distrito Federal,9,Milpa Alta,305,Corrantitla,191211.0,990113.0,147.0,12.0,21.0,8.0,3.0,6.98,34.0,32.0,980
+219,9,Distrito Federal,9,Milpa Alta,306,Tepanoco,191216.0,990107.0,19.0,0.0,1.0,0.0,0.0,8.15,6.0,3.0,980
+220,9,Distrito Federal,9,Milpa Alta,307,Ninguno,191209.0,990139.0,26.0,0.0,8.0,0.0,0.0,6.29,9.0,8.0,980
+221,9,Distrito Federal,9,Milpa Alta,308,Ninguno,191224.0,990149.0,8.0,,,,,,2.0,2.0,980
+222,9,Distrito Federal,9,Milpa Alta,309,Zacatipla,191222.0,990144.0,3.0,,,,,,1.0,1.0,980
+223,9,Distrito Federal,9,Milpa Alta,310,Paraje Santa Rosa Xalco,191219.0,990150.0,26.0,4.0,4.0,2.0,2.0,8.96,12.0,7.0,980
+224,9,Distrito Federal,9,Milpa Alta,311,Ninguno,191210.0,990158.0,7.0,,,,,,2.0,1.0,980
+225,9,Distrito Federal,9,Milpa Alta,312,Villa Hermosa,191151.0,990209.0,49.0,4.0,9.0,2.0,3.0,8.91,13.0,13.0,980
+226,9,Distrito Federal,9,Milpa Alta,313,Ninguno,191134.0,990156.0,30.0,2.0,2.0,2.0,1.0,9.7,8.0,8.0,980
+227,9,Distrito Federal,9,Milpa Alta,314,Ninguno,191209.0,990028.0,81.0,7.0,12.0,5.0,1.0,8.22,23.0,20.0,980
+228,9,Distrito Federal,9,Milpa Alta,315,Barrio Nochtitla,191219.0,990240.0,442.0,30.0,68.0,20.0,19.0,7.85,125.0,102.0,980
+229,9,Distrito Federal,9,Milpa Alta,316,Paraje Tehuizco,191243.0,990233.0,241.0,24.0,32.0,12.0,8.0,7.27,76.0,60.0,980
+230,9,Distrito Federal,9,Milpa Alta,317,Achayatipac,191237.0,990247.0,161.0,18.0,19.0,9.0,3.0,7.96,53.0,41.0,980
+231,9,Distrito Federal,9,Milpa Alta,318,Ninguno,191218.0,990225.0,90.0,6.0,6.0,4.0,3.0,6.57,29.0,26.0,980
+232,9,Distrito Federal,9,Milpa Alta,319,Ninguno,191018.0,990207.0,3.0,,,,,,2.0,1.0,980
+233,9,Distrito Federal,9,Milpa Alta,320,Ermita del Calvario,191035.0,990216.0,37.0,2.0,5.0,2.0,3.0,8.44,12.0,9.0,980
+234,9,Distrito Federal,9,Milpa Alta,321,La Virgen,191240.0,990303.0,50.0,5.0,8.0,3.0,1.0,6.74,12.0,12.0,980
+235,9,Distrito Federal,9,Milpa Alta,322,Natlahuacaloca,191231.0,990259.0,58.0,4.0,4.0,4.0,0.0,9.23,18.0,14.0,980
+236,9,Distrito Federal,9,Milpa Alta,323,Huixtotlazintla,191217.0,990310.0,116.0,14.0,19.0,8.0,6.0,7.27,34.0,28.0,980
+237,9,Distrito Federal,9,Milpa Alta,324,Ninguno,191139.0,990310.0,79.0,9.0,11.0,7.0,3.0,7.37,18.0,17.0,980
+238,9,Distrito Federal,9,Milpa Alta,325,Ninguno,191125.0,990304.0,61.0,5.0,10.0,3.0,0.0,7.15,15.0,15.0,980
+239,9,Distrito Federal,9,Milpa Alta,327,Ninguno,191147.0,990246.0,14.0,3.0,2.0,1.0,0.0,8.33,5.0,4.0,980
+240,9,Distrito Federal,9,Milpa Alta,328,Ninguno,191058.0,990106.0,62.0,3.0,8.0,3.0,3.0,7.95,15.0,15.0,980
+241,9,Distrito Federal,9,Milpa Alta,329,Ninguno,191102.0,990100.0,83.0,7.0,13.0,4.0,3.0,7.48,26.0,21.0,980
+242,9,Distrito Federal,9,Milpa Alta,330,Ninguno,191102.0,990112.0,42.0,4.0,7.0,4.0,1.0,10.2,9.0,8.0,980
+243,9,Distrito Federal,9,Milpa Alta,331,Ninguno,191100.0,990109.0,3.0,,,,,,1.0,1.0,980
+244,9,Distrito Federal,9,Milpa Alta,332,Ninguno,191052.0,990133.0,40.0,0.0,10.0,0.0,2.0,8.65,10.0,10.0,980
+245,9,Distrito Federal,9,Milpa Alta,333,Tezontlipac,191050.0,990142.0,20.0,2.0,4.0,0.0,1.0,8.77,6.0,3.0,980
+246,9,Distrito Federal,9,Milpa Alta,334,Ninguno,191015.0,990146.0,8.0,,,,,,2.0,2.0,980
+247,9,Distrito Federal,9,Milpa Alta,335,Ninguno,191012.0,990143.0,14.0,2.0,2.0,1.0,0.0,6.09,9.0,4.0,980
+248,9,Distrito Federal,9,Milpa Alta,336,Ninguno,191014.0,990135.0,5.0,,,,,,3.0,2.0,980
+249,9,Distrito Federal,9,Milpa Alta,337,Ninguno,191020.0,990140.0,18.0,0.0,0.0,0.0,0.0,8.15,4.0,3.0,980
+250,9,Distrito Federal,9,Milpa Alta,338,Ninguno,191020.0,990142.0,18.0,1.0,1.0,0.0,0.0,9.29,3.0,3.0,980
+251,9,Distrito Federal,9,Milpa Alta,339,Ninguno,191026.0,990139.0,20.0,2.0,2.0,1.0,0.0,7.5,6.0,6.0,980
+252,9,Distrito Federal,9,Milpa Alta,340,Ninguno,191032.0,990138.0,88.0,2.0,12.0,2.0,6.0,8.65,28.0,24.0,980
+253,9,Distrito Federal,9,Milpa Alta,341,Paraje Texotitla,191125.0,990558.0,41.0,5.0,3.0,5.0,1.0,7.16,24.0,13.0,980
+254,9,Distrito Federal,9,Milpa Alta,342,Paraje Cuatepec,191110.0,990544.0,116.0,8.0,19.0,4.0,2.0,7.32,28.0,26.0,980
+255,9,Distrito Federal,9,Milpa Alta,344,Ocotitla,191212.0,990118.0,52.0,2.0,8.0,2.0,1.0,7.57,11.0,11.0,980
+256,9,Distrito Federal,9,Milpa Alta,345,Toltecas (Parte Alta),191324.0,990022.0,143.0,13.0,18.0,6.0,0.0,6.99,45.0,37.0,980
+257,9,Distrito Federal,9,Milpa Alta,346,Palo Dulce,191126.0,985928.0,107.0,5.0,19.0,4.0,1.0,7.85,28.0,27.0,980
+258,9,Distrito Federal,9,Milpa Alta,347,Xochiatlaco,191107.0,990007.0,16.0,2.0,1.0,1.0,0.0,7.0,5.0,3.0,980
+259,9,Distrito Federal,9,Milpa Alta,348,Huacaltunco,191058.0,990013.0,22.0,3.0,5.0,2.0,1.0,8.31,6.0,5.0,980
+260,9,Distrito Federal,9,Milpa Alta,349,Ixotitla,191231.0,990342.0,58.0,2.0,4.0,1.0,1.0,7.53,17.0,14.0,980
+261,9,Distrito Federal,13,Xochimilco,1,Xochimilco,191630.0,990820.0,407885.0,21530.0,52308.0,16595.0,21052.0,10.19,110887.0,101079.0,6278
+262,9,Distrito Federal,13,Xochimilco,91,Tepemimilco,191334.0,990726.0,19.0,0.0,3.0,0.0,2.0,12.25,6.0,4.0,6278
+263,9,Distrito Federal,13,Xochimilco,96,Paraje Izotitla,191414.0,990327.0,160.0,15.0,17.0,9.0,3.0,8.1,50.0,38.0,6278
+264,9,Distrito Federal,13,Xochimilco,109,Paraje la Huerta,191535.0,990413.0,8.0,,,,,,2.0,2.0,6278
+265,9,Distrito Federal,13,Xochimilco,111,Paraje Lila (El Ladrillo),191545.0,990445.0,24.0,2.0,2.0,1.0,0.0,6.81,6.0,6.0,6278
+266,9,Distrito Federal,13,Xochimilco,112,Paraje Texhuilo,191554.0,990530.0,61.0,5.0,8.0,5.0,1.0,9.2,19.0,15.0,6278
+267,9,Distrito Federal,13,Xochimilco,113,Paraje Zacapa,191528.0,990330.0,27.0,1.0,6.0,1.0,5.0,10.83,11.0,7.0,6278
+268,9,Distrito Federal,13,Xochimilco,118,Barrio San Antonio (Cruz Monte),191444.0,990203.0,231.0,15.0,30.0,7.0,7.0,7.54,59.0,49.0,6278
+269,9,Distrito Federal,13,Xochimilco,131,Tepepan,191323.0,990801.0,6.0,,,,,,2.0,2.0,6278
+270,9,Distrito Federal,13,Xochimilco,134,Ampliación Chalmita,191403.0,990256.0,352.0,20.0,49.0,10.0,11.0,7.34,99.0,78.0,6278
+271,9,Distrito Federal,13,Xochimilco,136,Tepexomulco,191355.0,990752.0,352.0,22.0,45.0,14.0,10.0,8.45,106.0,87.0,6278
+272,9,Distrito Federal,13,Xochimilco,137,Tlachiultepec de Ahuayucan (Las Malvinas),191215.0,990608.0,161.0,12.0,27.0,5.0,5.0,7.78,37.0,36.0,6278
+273,9,Distrito Federal,13,Xochimilco,138,Tepetitla (Tlacoxpan),191402.0,990831.0,57.0,5.0,9.0,4.0,4.0,8.4,16.0,15.0,6278
+274,9,Distrito Federal,13,Xochimilco,139,Tlacualleli de las Flores (El Calvario),191432.0,990440.0,43.0,4.0,8.0,3.0,1.0,7.59,11.0,11.0,6278
+275,9,Distrito Federal,13,Xochimilco,140,Tlaltepetla (Tehuistitla),191327.0,990655.0,127.0,5.0,24.0,1.0,6.0,8.0,29.0,28.0,6278
+276,9,Distrito Federal,13,Xochimilco,143,Tlalatlaco,191332.0,990838.0,268.0,9.0,42.0,7.0,11.0,7.71,88.0,65.0,6278
+277,9,Distrito Federal,13,Xochimilco,146,Tlatzala (Cuayuca),191410.0,990439.0,162.0,14.0,21.0,9.0,3.0,6.84,44.0,40.0,6278
+278,9,Distrito Federal,13,Xochimilco,147,Isla de las Muñecas,191621.0,990515.0,1.0,,,,,,1.0,1.0,6278
+279,9,Distrito Federal,13,Xochimilco,151,Tepuente,191330.0,990907.0,131.0,12.0,22.0,7.0,7.0,8.44,31.0,31.0,6278
+280,9,Distrito Federal,13,Xochimilco,153,Ahuatitla,191307.0,990642.0,39.0,4.0,4.0,3.0,0.0,9.68,8.0,8.0,6278
+281,9,Distrito Federal,13,Xochimilco,157,Tipipili,191359.0,990507.0,247.0,19.0,37.0,11.0,4.0,6.33,69.0,56.0,6278
+282,9,Distrito Federal,13,Xochimilco,160,Paraje Tochuca (San Salvador),191209.0,990609.0,176.0,9.0,19.0,9.0,12.0,9.76,66.0,44.0,6278
+283,9,Distrito Federal,13,Xochimilco,161,Tlacalteca,191349.0,990653.0,55.0,1.0,8.0,1.0,3.0,10.19,12.0,12.0,6278
+284,9,Distrito Federal,13,Xochimilco,162,Pepelaxtla,191303.0,990650.0,153.0,8.0,27.0,3.0,11.0,7.92,34.0,34.0,6278
+285,9,Distrito Federal,13,Xochimilco,163,Tecacalango,191304.0,990625.0,268.0,22.0,29.0,18.0,14.0,9.14,76.0,67.0,6278
+286,9,Distrito Federal,13,Xochimilco,164,Cerro Tzompole,191211.0,990703.0,7.0,,,,,,7.0,2.0,6278
+287,9,Distrito Federal,13,Xochimilco,165,Cacalco (Tepextenco),191140.0,990730.0,27.0,1.0,6.0,0.0,0.0,6.73,5.0,5.0,6278
+288,9,Distrito Federal,13,Xochimilco,169,Apatlaco,191549.0,990510.0,69.0,4.0,10.0,1.0,1.0,6.53,23.0,20.0,6278
+289,9,Distrito Federal,13,Xochimilco,177,Kilómetro 26,191322.0,990826.0,7.0,1.0,0.0,1.0,0.0,5.6,3.0,3.0,6278
+290,9,Distrito Federal,13,Xochimilco,178,Puente de Urrutia (Tlapizatil),191542.0,990420.0,94.0,12.0,14.0,12.0,11.0,8.12,25.0,24.0,6278
+291,9,Distrito Federal,13,Xochimilco,180,Tepexomulco las Rocas,191345.0,990807.0,51.0,2.0,8.0,2.0,4.0,8.38,23.0,17.0,6278
+292,9,Distrito Federal,13,Xochimilco,181,Ocotitla Tepachuxiac,191341.0,990830.0,101.0,5.0,20.0,4.0,2.0,7.07,28.0,25.0,6278
+293,9,Distrito Federal,13,Xochimilco,184,Paraje Atocle,191308.0,990635.0,143.0,11.0,12.0,9.0,6.0,10.67,44.0,40.0,6278
+294,9,Distrito Federal,13,Xochimilco,185,Paraje los Tejocotes,191210.0,990706.0,50.0,5.0,4.0,2.0,2.0,8.25,11.0,11.0,6278
+295,9,Distrito Federal,13,Xochimilco,186,Granja R.R. (Los Ciruelos),191202.0,990652.0,14.0,0.0,0.0,0.0,0.0,5.15,12.0,7.0,6278
+296,9,Distrito Federal,13,Xochimilco,187,Rancho el Cedro,191208.0,990639.0,112.0,5.0,13.0,2.0,3.0,6.83,31.0,28.0,6278
+297,9,Distrito Federal,13,Xochimilco,190,Tixculco,191319.0,990315.0,13.0,1.0,0.0,0.0,0.0,5.2,9.0,4.0,6278
+298,9,Distrito Federal,13,Xochimilco,191,Tecoexcontitla,191247.0,990504.0,154.0,12.0,25.0,6.0,13.0,9.61,55.0,41.0,6278
+299,9,Distrito Federal,13,Xochimilco,192,Quinta Patricia,191245.0,990515.0,3.0,,,,,,2.0,1.0,6278
+300,9,Distrito Federal,13,Xochimilco,193,Bosques de la Paz,191241.0,990527.0,4.0,,,,,,2.0,1.0,6278
+301,9,Distrito Federal,13,Xochimilco,195,Paraje Tepanyecac,191318.0,990303.0,17.0,1.0,5.0,1.0,0.0,6.42,7.0,4.0,6278
+302,9,Distrito Federal,13,Xochimilco,196,Tepepula,191341.0,990731.0,36.0,1.0,4.0,1.0,0.0,6.77,10.0,9.0,6278
+303,9,Distrito Federal,13,Xochimilco,197,La Angostura,191546.0,990429.0,43.0,2.0,6.0,2.0,0.0,6.68,9.0,8.0,6278
+304,9,Distrito Federal,13,Xochimilco,198,Calle de Sinatlixpa,191157.0,990636.0,60.0,2.0,6.0,2.0,3.0,7.2,18.0,13.0,6278
+305,9,Distrito Federal,13,Xochimilco,201,Cerro Cuatizi,191337.0,990432.0,42.0,2.0,8.0,0.0,2.0,8.07,13.0,12.0,6278
+306,9,Distrito Federal,13,Xochimilco,202,Paraje Zacapa,191303.0,990519.0,147.0,7.0,29.0,6.0,3.0,7.89,43.0,37.0,6278
+307,9,Distrito Federal,13,Xochimilco,203,Santa Catarina (Piedra Blanca),191251.0,990447.0,30.0,1.0,4.0,1.0,2.0,9.33,16.0,10.0,6278
+308,9,Distrito Federal,13,Xochimilco,204,Huepaltepec,191254.0,990427.0,24.0,2.0,2.0,2.0,1.0,6.79,8.0,7.0,6278
+309,9,Distrito Federal,13,Xochimilco,205,Tecuanatla (Arenal Papanco),191303.0,990626.0,19.0,3.0,3.0,3.0,1.0,7.77,5.0,4.0,6278
+310,9,Distrito Federal,13,Xochimilco,206,Inopilco,191239.0,990628.0,14.0,2.0,1.0,2.0,0.0,9.1,3.0,3.0,6278
+311,9,Distrito Federal,13,Xochimilco,207,Rancho la Flor,191233.0,990604.0,2.0,,,,,,2.0,1.0,6278
+312,9,Distrito Federal,13,Xochimilco,208,Rancho los Cedros,191226.0,990618.0,26.0,1.0,3.0,1.0,1.0,9.07,11.0,7.0,6278
+313,9,Distrito Federal,13,Xochimilco,209,Cerro Tepeclite,191217.0,990622.0,23.0,2.0,1.0,1.0,0.0,7.2,9.0,7.0,6278
+314,9,Distrito Federal,13,Xochimilco,210,Zapatitla,191128.0,990723.0,12.0,0.0,1.0,0.0,0.0,6.0,7.0,3.0,6278
+315,9,Distrito Federal,13,Xochimilco,213,Nauhtepan (Tepantiagua),191351.0,990815.0,40.0,2.0,5.0,1.0,0.0,7.64,17.0,11.0,6278
+316,9,Distrito Federal,13,Xochimilco,214,Tepeyecac (El Arenal),191348.0,990733.0,85.0,4.0,14.0,3.0,5.0,8.0,20.0,19.0,6278
+317,9,Distrito Federal,13,Xochimilco,215,Tepexomulco (Kilómetro 27.8),191333.0,990746.0,6.0,,,,,,6.0,2.0,6278
+318,9,Distrito Federal,13,Xochimilco,218,Paraje Ixcuicuilco,191313.0,990656.0,31.0,1.0,5.0,1.0,1.0,8.61,9.0,9.0,6278
+319,9,Distrito Federal,13,Xochimilco,223,Avenida de las Torres,191420.0,990309.0,99.0,6.0,11.0,2.0,2.0,6.72,17.0,17.0,6278
+320,9,Distrito Federal,13,Xochimilco,224,Corralón Policía Federal de Caminos,191411.0,990316.0,14.0,,,,,,4.0,2.0,6278
+321,9,Distrito Federal,13,Xochimilco,226,Cocopalcuautla,191319.0,990242.0,4.0,,,,,,3.0,1.0,6278
+322,9,Distrito Federal,13,Xochimilco,229,Parada del Conejo,191258.0,990653.0,98.0,8.0,11.0,6.0,10.0,8.92,25.0,24.0,6278
+323,9,Distrito Federal,13,Xochimilco,231,Tecanco,191352.0,990423.0,72.0,3.0,9.0,2.0,1.0,6.04,20.0,18.0,6278
+324,9,Distrito Federal,13,Xochimilco,232,Atlaxco,191356.0,990408.0,87.0,8.0,15.0,3.0,0.0,5.79,23.0,19.0,6278
+325,9,Distrito Federal,13,Xochimilco,234,Barrio Nochicala,191438.0,990224.0,203.0,19.0,27.0,13.0,11.0,8.14,54.0,47.0,6278
+326,9,Distrito Federal,13,Xochimilco,235,Ninguno,191402.0,990317.0,123.0,8.0,20.0,5.0,5.0,8.24,37.0,28.0,6278
+327,9,Distrito Federal,13,Xochimilco,236,Camino Real a San Pedro,191400.0,990319.0,68.0,5.0,11.0,4.0,2.0,8.83,19.0,15.0,6278
+328,9,Distrito Federal,13,Xochimilco,237,El Cedral,191258.0,990703.0,21.0,0.0,3.0,0.0,0.0,9.0,6.0,4.0,6278
+329,9,Distrito Federal,13,Xochimilco,241,Tiziclipa,191339.0,990527.0,48.0,2.0,6.0,0.0,0.0,5.9,10.0,10.0,6278
+330,9,Distrito Federal,13,Xochimilco,242,Atenco (Tlaquilpa),191525.0,990318.0,20.0,1.0,1.0,1.0,0.0,8.2,5.0,5.0,6278
+331,9,Distrito Federal,13,Xochimilco,243,Axayopa,191525.0,990334.0,72.0,4.0,10.0,2.0,0.0,8.19,13.0,12.0,6278
+332,9,Distrito Federal,13,Xochimilco,244,Coapantitla,191525.0,990323.0,20.0,3.0,1.0,3.0,0.0,10.55,6.0,5.0,6278
+333,9,Distrito Federal,13,Xochimilco,245,San Martín,191354.0,990439.0,5.0,,,,,,1.0,1.0,6278
+334,9,Distrito Federal,13,Xochimilco,246,Rancho Francisco Villa (Tepejoyuca),191323.0,990438.0,15.0,1.0,0.0,0.0,0.0,7.0,7.0,5.0,6278
+335,9,Distrito Federal,13,Xochimilco,247,Pantiagua,191335.0,990817.0,11.0,,,,,,3.0,2.0,6278
+336,9,Distrito Federal,13,Xochimilco,249,Chililico,191557.0,990521.0,21.0,4.0,3.0,2.0,0.0,4.67,4.0,3.0,6278
+337,9,Distrito Federal,13,Xochimilco,251,Tecalipac,191310.0,990742.0,7.0,,,,,,2.0,2.0,6278
+338,9,Distrito Federal,13,Xochimilco,252,Texopantitla,191436.0,990807.0,127.0,8.0,21.0,7.0,4.0,8.22,32.0,29.0,6278
+339,9,Distrito Federal,13,Xochimilco,253,Oluca Dos Parajes,191134.0,990631.0,33.0,3.0,7.0,3.0,0.0,9.04,19.0,8.0,6278
+340,9,Distrito Federal,13,Xochimilco,255,Ninguno,191210.0,990643.0,23.0,1.0,5.0,1.0,0.0,6.86,7.0,7.0,6278
+341,9,Distrito Federal,13,Xochimilco,257,Los Pinos,191409.0,990823.0,124.0,10.0,10.0,7.0,0.0,7.31,39.0,32.0,6278
+342,9,Distrito Federal,13,Xochimilco,258,Temamatla,191410.0,990816.0,129.0,6.0,16.0,2.0,2.0,7.44,37.0,28.0,6278
+343,9,Distrito Federal,13,Xochimilco,259,Colexco,191341.0,990649.0,4.0,,,,,,2.0,1.0,6278
+344,9,Distrito Federal,13,Xochimilco,261,Paraje Maxacuatitla,191426.0,990257.0,5.0,,,,,,2.0,2.0,6278
+345,9,Distrito Federal,13,Xochimilco,262,Paraje Nochicala,191431.0,990215.0,33.0,5.0,9.0,1.0,1.0,7.31,7.0,6.0,6278
+346,9,Distrito Federal,13,Xochimilco,263,San Juan Diego (Matlacuapa),191435.0,990240.0,79.0,3.0,12.0,2.0,2.0,6.31,23.0,16.0,6278
+347,9,Distrito Federal,13,Xochimilco,265,Paraje Moyocalco,191459.0,990807.0,48.0,2.0,7.0,2.0,2.0,8.06,15.0,12.0,6278
+348,9,Distrito Federal,13,Xochimilco,266,Cuahuticotitla,191344.0,990831.0,77.0,2.0,12.0,1.0,2.0,6.88,18.0,18.0,6278
+349,9,Distrito Federal,13,Xochimilco,267,Tizilingo,191417.0,990458.0,100.0,9.0,12.0,3.0,0.0,5.55,24.0,23.0,6278
+350,9,Distrito Federal,13,Xochimilco,268,Alcanfores,191414.0,990503.0,62.0,5.0,16.0,4.0,4.0,8.21,18.0,16.0,6278
+351,9,Distrito Federal,13,Xochimilco,269,Bosques de la Paz,191355.0,990430.0,64.0,4.0,15.0,3.0,6.0,8.29,19.0,17.0,6278
+352,9,Distrito Federal,13,Xochimilco,270,Contlalco,191441.0,990755.0,66.0,7.0,8.0,4.0,2.0,8.16,18.0,16.0,6278
+353,9,Distrito Federal,13,Xochimilco,271,Tlalmelac,191553.0,990214.0,50.0,2.0,4.0,2.0,0.0,8.07,10.0,10.0,6278
+354,9,Distrito Federal,13,Xochimilco,272,Xometitla (Tlalitenco),191346.0,990643.0,456.0,32.0,65.0,21.0,13.0,7.7,132.0,107.0,6278
+355,9,Distrito Federal,16,Miguel Hidalgo,1,Miguel Hidalgo,192424.0,991128.0,372889.0,14132.0,38197.0,11756.0,18869.0,11.88,145091.0,120186.0,46193
+356,9,Distrito Federal,17,Venustiano Carranza,1,Venustiano Carranza,192500.0,990650.0,430978.0,20266.0,49041.0,16110.0,20092.0,10.53,139310.0,123327.0,18251
