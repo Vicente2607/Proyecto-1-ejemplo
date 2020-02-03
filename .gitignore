@@ -9,3 +9,17 @@
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
+
+# Archivomos omitidos:
+
+carpetas-de-investigacion-pgj-de-la-ciudad-de-mexico.csv
+
+Carpetas2018.csv
+
+data.py
+
+Carpetas2018Denun.csv
+
+denue_inegi_09_Mas_5_Emp.xlsx
+
+Population_INEGI.xlsx
