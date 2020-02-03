@@ -1,17 +1,17 @@
-,Alcaldias,Precio por metro cuadrado
-0,Tlapan,6667
-1,Alvaro Obregon,20714
-2,Azcapotzalco,17255
-3,Xochimilco,6278
-4,Cuajimalpa de Morelos,13725
-5,Gustavo A Madero,14545
-6,Iztapalapa,9960
-7,Miguel Hidalgo,46193
-8,Tlahuac,7000
-9,Cuauhtemoc,45037
-10,Benito Juarez,44167
-11,Coyoacan,27000
-12,La Magdalena Contreras,12678
-13,Milpa Alta,980
-14,Iztacalco,16949
-15,Venustiano Carranza,18251
+,Alcaldias,Precio por metro cuadrado,Densidad de habitantes (km2)
+0,Tlapan,6667.00,2085.00
+1,Alvaro Obregon,20714.00,7347.00
+2,Azcapotzalco,17255.00,12635.00
+3,Xochimilco,6278.00,3427.00
+4,Cuajimalpa de Morelos,13725.00,2328.00
+5,Gustavo A Madero,14545.00,12683.00
+6,Iztapalapa,9960.00,15563.00
+7,Miguel Hidalgo,46193.00,7523.00
+8,Tlahuac,7000.00,4032.00
+9,Cuauhtemoc,45037.00,16090.00
+10,Benito Juarez,44167.00,13331.00
+11,Coyoacan,27000.00,11545.00
+12,La Magdalena Contreras,12678.00,3069.00
+13,Milpa Alta,980.00,507.00
+14,Iztacalco,16949.00,16953.00
+15,Venustiano Carranza,18251.00,13396.00
