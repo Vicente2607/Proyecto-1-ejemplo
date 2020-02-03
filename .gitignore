@@ -1,6 +1,10 @@
 # .DS_Store
 .DS_Store
 
+
+*.csv
+
+
 # Jupyter Checkpoints
 
 .ipynb_checkpoints
